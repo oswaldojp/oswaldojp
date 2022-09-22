@@ -1,0 +1,10 @@
+#phrase{
+    padding-top: 300px;
+    padding-bottom: 200px;
+    color: white;
+    text-align: right;
+}
+#background-photo{
+    background-image: url(/img/BG.jpg);
+    background-size: cover;
+}
