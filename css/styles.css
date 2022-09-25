@@ -8,3 +8,26 @@
     background-image: url(/img/BG.jpg);
     background-size: cover;
 }
+
+#cardscontainer{
+    padding-top: 10px;
+    text-align: center;
+}
+
+#cardspace{
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+#copyrights{
+    text-align: center;
+}
+
+.card{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin: 0 auto;
+}
