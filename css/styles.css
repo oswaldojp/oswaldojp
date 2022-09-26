@@ -25,9 +25,19 @@
     text-align: center;
 }
 
-.card{
+.card, #imageme{
     text-align: center;
     align-items: center;
     align-content: center;
     margin: 0 auto;
 }
+
+#circlephoto{
+    width: 75%;
+    height: 100%;
+}
+
+#aboutme, #imageme{
+    padding: 10px;
+}
+
